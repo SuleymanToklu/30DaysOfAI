@@ -1,5 +1,5 @@
 <div align="right">
-<a href="#-türkçe-versiyon">Read in Turkish / Türkçe Oku</a>
+<a href="#-türkçe">Read in Turkish / Türkçe Oku</a>
 </div>
 
 # 🚀 30 Days of AI Challenge 🚀
@@ -83,8 +83,8 @@ I am proud to have completed this challenge and can't wait to see what's next!
 ---
 ---
 
-## 🇹🇷 Türkçe Versiyon
-<a name="-türkçe-versiyon"></a>
+## 🇹🇷 Türkçe
+<a name="-türkçe"></a>
 
 Merhaba! Bu repo, kendime meydan okuduğum ve 30 gün boyunca her gün yeni bir yapay zeka projesi geliştirdiğim **"30 Days of AI"** serüvenimin bir kaydıdır.
 
