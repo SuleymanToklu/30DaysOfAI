@@ -1,0 +1,15 @@
+# Dataset Images
+images/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+*.env
+.env
+
+# IDE Files
+.vscode/
+.idea/

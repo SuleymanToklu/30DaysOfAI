@@ -1,0 +1,10 @@
+gradio
+torch
+diffusers
+transformers
+accelerate
+Pillow
+sentencepiece
+soundfile
+datasets
+huggingface_hub

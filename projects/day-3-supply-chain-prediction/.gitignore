@@ -1,0 +1,12 @@
+# Büyük veri dosyaları
+# Python'un oluşturduğu cache klasörleri
+__pycache__/
+
+# Geçici test scriptleri
+test_api.py
+
+# Hyperion projesinin çıktısı olacak büyük dosya
+hyperion_dataset.csv
+
+# Arşivlenen eski dosyalar
+_archive/

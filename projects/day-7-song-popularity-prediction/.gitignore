@@ -1,0 +1,11 @@
+# Streamlit Secrets - API Anahtarlarını gizli tutar
+.streamlit/secrets.toml
+
+# Python Cache ve Sanal Ortam Dosyaları
+__pycache__/
+*.pyc
+venv/
+.env
+
+# İşletim Sistemi Dosyaları
+.DS_Store
